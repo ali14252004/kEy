@@ -84,12 +84,18 @@ Here’s an example of a generated report in JSON format:
 ---
 ## Troubleshooting 
 ### Common Issues
+-  **Installation Failure**:
+   1-  *Definition*: The application fails to install properly on the user's system. 
+   2-  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
 
+-  **Login Issues**:
+  1-  *Definition**: Users are unable to log in to their accounts. -  
+  2- **Solution**: Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5Mzg3MDgsLTE4NzI2NjcyNiwtND
-c4NTc5MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYz
-NjMyNSwtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMz
-E4LDE3MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MTgxOTAzLC0y
-MDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5NiwtMjA4OD
-c0NjYxMiwtMTY1MDQzOTExN119
+eyJoaXN0b3J5IjpbLTg4NzY0NzEwNiwtMTg3MjY2NzI2LC00Nz
+g1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2
+MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMT
+gsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIw
+MDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1ODk2LC0yMDg4Nz
+Q2NjEyLC0xNjUwNDM5MTE3XX0=
 -->
