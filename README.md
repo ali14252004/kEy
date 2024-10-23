@@ -63,7 +63,31 @@ Here’s an example of a generated report in JSON format:
 { 
 "report": 
 { "programName": 
-"Summer Body Bootcamp", "totalParticipants": 30, "successRate": "85%", "progress": { "weightLoss": "5 kg", "muscleGain": "3 kg" }, "participants": [ { "name": "Alice", "progress": { "weightLost": "2 kg", "workoutsCompleted": 10 } }, { "name": "Bob", "progress": { "weightLost": "3 kg", "workoutsCompleted": 12 } } ] } }
+"Summer Body Bootcamp", 
+"totalParticipants": 30, 
+"successRate": "85%", 
+"progress": 
+{ 
+"weightLoss": "5 kg",
+ "muscleGain": "3 kg" }
+ , "participants":
+  {
+   { "name": "Alice",
+    "progress": 
+    { 
+    "weightLost": "2 kg",
+     "workoutsCompleted": 10
+      }
+       },
+        { 
+        "name": "Bob", 
+        "progress": { "weightLost": "3 kg", "workoutsCompleted": 12 
+        }
+         }
+          }
+           }
+            
+            }
 
 ---
 ## Troubleshooting 
@@ -99,7 +123,7 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE1NDY3ODUsLTI2MjczMTgxMiwtMj
+eyJoaXN0b3J5IjpbLTExMDA0MTQ2ODMsLTI2MjczMTgxMiwtMj
 AwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0
 NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNS
 wyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00
