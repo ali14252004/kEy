@@ -31,7 +31,7 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 
 ### Creating a Project
 
-To create a new project in the Gem System, follow these steps:
+To create a new Training session with a coach in the Gem System, follow these steps:
 
 1. **Open the Gem System application.**
 2. **Click on "Create New Project."**
@@ -83,9 +83,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjYxMDk0LDIxMTM4Njc0ODksLTExND
-M1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MDgw
-MjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OS
-wtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwz
-NzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTU2NDkyODE3OCwyMTEzODY3NDg5LC0xMT
+QzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4
+MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyOD
+ksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3Nzks
+Mzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
 -->
