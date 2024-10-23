@@ -12,7 +12,7 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 
 ## Installation Guide  
 1.  **Windows :computer:**:
- - Download the installer from the official Gem System website.
+ - Download the Gem System from the official installer  website.
  - Open the installer and follow the on-screen instructions.
  - Launch the application from the Start menu.
 
@@ -82,9 +82,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM1MjAyNjEsLTExNDM1MjAyNjEsLT
-E1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4
-MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MT
-kwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OTYs
-LTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMT
+UwNTYzNjMyNSwtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0xNTgz
+NjQzMzE4LDE3MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MTgxOT
+AzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5Niwt
+MjA4ODc0NjYxMiwtMTY1MDQzOTExN119
 -->
