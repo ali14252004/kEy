@@ -105,8 +105,8 @@ Here’s an example of a generated report in JSON format:
   1.  **Definition**: Changes made by users do not reflect across all devices. 
     2. **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
 
--  **Missing Gem Entries**: 
-  1.  **Definition**: Some gem entries are not visible in the user's catalog. 
+-  **Missing Gym Entries**: 
+  1.  **Definition**: Some gym entries are not visible in the user's catalog. 
    2.  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
 
 -  **Notification Problems**: 
@@ -115,7 +115,7 @@ Here’s an example of a generated report in JSON format:
 
 ## Advanced Usage
 ### Scripting
-The Gem System allows users to automate repetitive tasks through scripting. By using the built-in scripting feature, users can create scripts to perform actions such as batch updates, data imports, or other routine operations. This can significantly enhance productivity and reduce manual errors.
+The Gym System allows users to automate repetitive tasks through scripting. By using the built-in scripting feature, users can create scripts to perform actions such as batch updates, data imports, or other routine operations. This can significantly enhance productivity and reduce manual errors.
 
 ### Integrations
 
@@ -124,11 +124,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTkzMDE5MSwtMjYyNzMxODEyLC0yMD
-AzNjg3OTAyLDE0NTQ2MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0
-MzU4NywtNjM2ODU5OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LD
-IxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQy
-MDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3ND
-I0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEz
-NSwtMTk0NjEzNjc3OV19
+eyJoaXN0b3J5IjpbLTE3ODE1MjMzMTcsLTI2MjczMTgxMiwtMj
+AwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0
+NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNS
+wyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00
+MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNz
+QyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1Mzgx
+MzUsLTE5NDYxMzY3NzldfQ==
 -->
