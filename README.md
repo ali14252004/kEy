@@ -9,7 +9,7 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 - **Search Functionality**: Quickly find gems by various attributes such as category :mag_right:.
 - **Collaboration**: Share gem collections and collaborate with other users seamlessly :envelope:.
 - **User Management**: Manage user accounts, roles, and permissions to enhance security :cop:.
-- 
+---
 
 ## Installation Guide  
 1.  **Windows :computer:**:
@@ -83,9 +83,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjkzNDMwMCwyMTEzODY3NDg5LC0xMT
-QzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4
-MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyOD
-ksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3Nzks
-Mzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbMjM5NjYxMDk0LDIxMTM4Njc0ODksLTExND
+M1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MDgw
+MjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OS
+wtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwz
+NzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
 -->
