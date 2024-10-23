@@ -5,9 +5,9 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 
 ## Key Features
 -  **User Authentication**: Secure login for users to manage their collections.
--   **Gem Cataloging**: Add, edit, and delete gem entries easily. 
-- -  **Search Functionality**: Quickly find gems by various attributes such as type, color, and size.
+-  **Gem subscription**: The user can participate in any category he wants
+- **Search Functionality**: Quickly find gems by various attributes such as type, color, and size.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1MTI1MTYwLC0xOTQ2MTM2Nzc5LDM3NT
-ExNTg5NiwtMjA4ODc0NjYxMiwtMTY1MDQzOTExN119
+eyJoaXN0b3J5IjpbMTU5Mzg1OTk1NywtMTk0NjEzNjc3OSwzNz
+UxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
 -->
