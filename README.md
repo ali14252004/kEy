@@ -17,15 +17,15 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
  --Launch the application from the Start menu.
 
 2. **macOS**
-3. 
  --Download the .dmg file from the official Gem System website.
  --Open the .dmg file and drag the Gem System application to your Applications folder.
  --Launch the application from your Applications.
- 
+  
+ 3. **Linux**
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MzU1MDI5LDE2MjI3NTI4OSwtMTcyND
-E4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4
-OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTExNTQ1OTQ3NzUsMTYyMjc1Mjg5LC0xNz
+I0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTEx
+NTg5NiwtMjA4ODc0NjYxMiwtMTY1MDQzOTExN119
 -->
