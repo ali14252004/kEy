@@ -95,11 +95,19 @@ Here’s an example of a generated report in JSON format:
 -  **Data Sync Problems**: 
   1-  **Definition**: Changes made by users do not reflect across all devices. 
     2-  **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
+
+-  **Missing Gem Entries**: 
+  1-  **Definition**: Some gem entries are not visible in the user's catalog. 
+   2-  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
+
+-  **Notification Problems**: 
+ 1-  **Definition**: Users do not receive notifications for updates or messages. -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the operating system settings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMT
-g3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIw
-MjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNz
-AsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3
-MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MT
-E1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTE1MTc0NTcyMDAsLTEwOTA0NDM1ODcsLT
+YzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3
+NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MT
+csLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwx
+NjIyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5ND
+YxMzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5
+MTE3XX0=
 -->
