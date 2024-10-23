@@ -78,13 +78,18 @@ Here’s an example of a generated report in JSON format:
         "tasksCompleted": 5
       }
     }
-  }```
+  }
+  ```
+
+---
+## Troubleshooting 
+### Common Issues
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzA2NjkxLC0xODcyNjY3MjYsLTQ3OD
-U3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2MzYz
-MjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOC
-wxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAw
-ODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OTYsLTIwODg3ND
-Y2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTIwODQ5Mzg3MDgsLTE4NzI2NjcyNiwtND
+c4NTc5MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYz
+NjMyNSwtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMz
+E4LDE3MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MTgxOTAzLC0y
+MDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5NiwtMjA4OD
+c0NjYxMiwtMTY1MDQzOTExN119
 -->
