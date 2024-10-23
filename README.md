@@ -89,16 +89,16 @@ Here’s an example of a generated report in JSON format:
    2-  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
 
 -  **Login Issues**:
-  1-  *Definition* : Users are can't to log in to their accounts.   
-  2- *Solution* : Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
+  1.  *Definition* : Users are can't to log in to their accounts.   
+  2. *Solution* : Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
 
 -  **Data Sync Problems**: 
-  1-  **Definition**: Changes made by users do not reflect across all devices. 
-    2-  **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
+  1.  **Definition**: Changes made by users do not reflect across all devices. 
+    2. **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
 
 -  **Missing Gem Entries**: 
-  1-  **Definition**: Some gem entries are not visible in the user's catalog. 
-   2-  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
+  1.  **Definition**: Some gem entries are not visible in the user's catalog. 
+   2.  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
 
 -  **Notification Problems**: 
  1-  **Definition**: Users do not receive notifications for updates or messages.
@@ -115,11 +115,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM2ODc5MDIsMTQ1NDYxNjQzNSwxMD
-gwNDEzMTU5LC0xMDkwNDQzNTg3LC02MzY4NTk5MTcsLTE4NzI2
-NjcyNiwtNDc4NTc5MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MS
-wtMTUwNTYzNjMyNSwtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0x
-NTgzNjQzMzE4LDE3MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MT
-gxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5
-NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTUxODMzMzUyNCwtMjAwMzY4NzkwMiwxND
+U0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1
+OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC
+0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0
+NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNz
+UyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3
+NzksMzc1MTE1ODk2XX0=
 -->
