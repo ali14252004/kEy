@@ -105,9 +105,10 @@ Here’s an example of a generated report in JSON format:
  2 -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
 
 ## Advanced Usage
-
+### Scripting
+The Gem System allows users to automate repetitive tasks through scripting. By using the built-in scripting feature, users can create scripts to perform actions such as batch updates, data imports, or other routine operations. This can significantly enhance productivity and reduce manual errors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mzc1Nzk2MCwxMDgwNDEzMTU5LC0xMD
+eyJoaXN0b3J5IjpbMTQ1NDYxNjQzNSwxMDgwNDEzMTU5LC0xMD
 kwNDQzNTg3LC02MzY4NTk5MTcsLTE4NzI2NjcyNiwtNDc4NTc5
 MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNS
 wtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3
