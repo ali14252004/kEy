@@ -126,9 +126,10 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 
 ---
-
+1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
+2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjYzMjU1MCwtMjEyMzM0NjgzNSwtMT
+eyJoaXN0b3J5IjpbMTMzMjcxMTg0MSwtMjEyMzM0NjgzNSwtMT
 c4MTUyMzMxNywtMjYyNzMxODEyLC0yMDAzNjg3OTAyLDE0NTQ2
 MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5OT
 E3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLTEx
