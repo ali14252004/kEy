@@ -78,13 +78,13 @@ Here’s an example of a generated report in JSON format:
         "role": "User",
         "tasksCompleted": 5
       }
-    ]
+    }
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMT
-Q2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3
-NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNj
-c3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTdd
-fQ==
+eyJoaXN0b3J5IjpbLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLT
+QyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3
+NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzOD
+EzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIs
+LTE2NTA0MzkxMTddfQ==
 -->
