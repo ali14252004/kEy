@@ -26,9 +26,64 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
   - Install the application using your package manager.
   
 
+## User Guide
+
+### Creating a Project
+
+To create a new project in the Gem System, follow these steps:
+
+1. **Open the Gem System application.**
+2. **Click on "Create New Project."**
+3. **Name the Project**: Enter a descriptive name for your project.
+4. **Set Deadlines**: Specify the start and end dates for the project.
+5. **Assign Tasks**: Add tasks associated with the project and assign them to team members.
+6. **Save the Project**: Click the "Save" button to finalize the project setup.
+
+### Collaboration
+
+The Gem System offers several collaboration features to enhance teamwork:
+
+| Collaboration Option    | Description                                      | Communication Tools      |
+|-------------------------|--------------------------------------------------|---------------------------|
+| **Shared Projects**     | Multiple users can access and edit the same project. | In-app messaging          |
+| **Task Assignments**    | Assign specific tasks to different users for accountability. | Comments and notifications |
+| **Real-time Updates**   | View real-time changes made by collaborators.   | Activity feed             |
+
+### Reporting
+
+Users can generate comprehensive reports in the Gem System by following these steps:
+
+1. **Navigate to the Reports section.**
+2. **Select the type of report** you wish to generate (e.g., project overview, task completion).
+3. **Specify any filters** (e.g., date range, team member).
+4. **Click "Generate Report"** to create the report.
+
+Here’s an example of a generated report in JSON format:
+
+```json
+{
+  "report": {
+    "projectName": "Gem Collection",
+    "totalGems": 150,
+    "completedTasks": 75,
+    "pendingTasks": 25,
+    "teamMembers": [
+      {
+        "name": "Alice",
+        "role": "Admin",
+        "tasksCompleted": 10
+      },
+      {
+        "name": "Bob",
+        "role": "User",
+        "tasksCompleted": 5
+      }
+    ]
+  }
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMT
-cxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1
-MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2Nj
-EyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMT
+U4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4
+MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OT
+YsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
 -->
