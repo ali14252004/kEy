@@ -108,8 +108,11 @@ Here’s an example of a generated report in JSON format:
 ### Scripting
 The Gem System allows users to automate repetitive tasks through scripting. By using the built-in scripting feature, users can create scripts to perform actions such as batch updates, data imports, or other routine operations. This can significantly enhance productivity and reduce manual errors.
 
+### Integrations
+
+| Application Name | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTM1ODc1MSwxNDU0NjE2NDM1LDEwOD
+eyJoaXN0b3J5IjpbMTk3MTk4NzA3MiwxNDU0NjE2NDM1LDEwOD
 A0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2
 NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC
 0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1
