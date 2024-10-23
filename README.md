@@ -112,10 +112,10 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 
 | Application Name    | Description                                      | Website      |
 |-------------------------|--------------------------------------------------|---------------------------|
-| **Google Drive**    | Assign specific tasks to different users for accountability. | Comments and notifications |
+| **Google Drive**    | Cloud storage solution for managing user Accounts. | [google driv](https://www.example.com) |
 | **Real-time Updates**   | View real-time changes made by collaborators.   | Activity feed             |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjM3MTI1NiwxNDU0NjE2NDM1LDEwOD
+eyJoaXN0b3J5IjpbMTU4MzAwMjM3OSwxNDU0NjE2NDM1LDEwOD
 A0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2
 NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC
 0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1
