@@ -4,7 +4,7 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 ---
 
 ## Key Features
--  **User Authentication**: Secure login for users to manage their collections.
+-  **User Authentication**: Secure login for users to manage their collections.::
 -  **Gem subscription**: The user can participate in any category he wants.
 - **Search Functionality**: Quickly find gems by various attributes such as category.
 - **Collaboration**: Share gem collections and collaborate with other users seamlessly.
@@ -15,7 +15,7 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
  ```bash git clone https://github.com/yourusername/gem-system.git cd gem-system npm install npm start
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLT
-E5NDYxMzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUw
-NDM5MTE3XX0=
+eyJoaXN0b3J5IjpbNTA5ODc3MzYxLC0xNzI0MTgxOTAzLC0yMD
+A4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5NiwtMjA4ODc0
+NjYxMiwtMTY1MDQzOTExN119
 -->
