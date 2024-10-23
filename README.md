@@ -69,12 +69,12 @@ Here’s an example of a generated report in JSON format:
     "pendingTasks": 25,
     "teamMembers": [
       {
-        "name": "Alice",
+        "name": "Ali",
         "role": "Admin",
         "tasksCompleted": 10
       },
       {
-        "name": "Bob",
+        "name": "saad",
         "role": "User",
         "tasksCompleted": 5
       }
@@ -82,8 +82,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMT
-U4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4
-MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OT
-YsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMT
+Q2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3
+NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNj
+c3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTdd
+fQ==
 -->
