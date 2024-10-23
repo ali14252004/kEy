@@ -45,7 +45,6 @@ The Gem System offers several collaboration features to enhance teamwork:
 
 | Collaboration Option    | Description                                      | Communication Tools      |
 |-------------------------|--------------------------------------------------|---------------------------|
-      
 | **Task Assignments**    | Assign specific tasks to different users for accountability. | Comments and notifications |
 | **Real-time Updates**   | View real-time changes made by collaborators.   | Activity feed             |
 
@@ -82,7 +81,7 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDk4MzAyMCwtNDc4NTc5MzUsMjExMz
+eyJoaXN0b3J5IjpbLTE4NzI2NjcyNiwtNDc4NTc5MzUsMjExMz
 g2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNSwtNDIwMjU4
 ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3MTc0MjQxMz
 IsMTYyMjc1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0x
