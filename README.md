@@ -23,7 +23,7 @@ The **Gym System** program is a program that aims to arrange a gym system, in te
  - Launch the application from your Applications.
   
  3. **Linux :computer:**
-  - Open a terminal and add the Gem System repository.
+  - Open a terminal and add the Gym System repository.
   - Install the application using your package manager.
   
 
@@ -31,9 +31,9 @@ The **Gym System** program is a program that aims to arrange a gym system, in te
 
 ### Creating a Project
 
-To create a new Training session with a coach in the Gem System, follow these steps:
+To create a new Training session with a coach in the Gym System, follow these steps:
 
-1. **Open the Gem System application.**
+1. **Open the Gym System application.**
 2. **Click on "Training session"**
 3. **Set an appointment**: Specify the start and end dates for the training session.
 4. **Choose the coach**: enter the name of the coach.
@@ -41,7 +41,7 @@ To create a new Training session with a coach in the Gem System, follow these st
 
 ### Collaboration
 
-The Gem System offers several collaboration features to enhance teamwork:
+The Gym System offers several collaboration features to enhance teamwork:
 
 | Collaboration Option    | Description                                      | Communication Tools      |
 |-------------------------|--------------------------------------------------|---------------------------|
@@ -50,7 +50,7 @@ The Gem System offers several collaboration features to enhance teamwork:
 
 ### Reporting
 
-Users can generate comprehensive reports in the Gem System by following these steps:
+Users can generate comprehensive reports in the Gym System by following these steps:
 
 1. **Navigate to the Reports section.**
 2. **Select the type of report** you wish to generate (e.g., project overview, task completion).
@@ -115,11 +115,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNTAyNDcyLC0yMDAzNjg3OTAyLDE0NT
-Q2MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5
-OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLT
-ExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2
-MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NT
-I4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3
-OSwzNzUxMTU4OTZdfQ==
+eyJoaXN0b3J5IjpbLTI2MjczMTgxMiwtMjAwMzY4NzkwMiwxND
+U0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1
+OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC
+0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0
+NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNz
+UyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3
+NzksMzc1MTE1ODk2XX0=
 -->
