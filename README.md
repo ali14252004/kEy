@@ -1,7 +1,7 @@
 # Gym System
 The **Gym System** program is a program that aims to arrange a gym system, in terms of arranging the trainees into three categories, and each category has something that distinguishes it from others.
 
-![Gym System User Interface](https://gymnation.com/media/1ywpbj51/the-best-gyms-in-riyadh.webp)
+![Gym System User Interface](https://raw.githubusercontent.com/codelovs/codelov1/master/images/gym-management-laravel-1.png)
 ---
 
 ## Key Features
@@ -125,11 +125,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzI5Mzk4MiwtMTc4MTUyMzMxNywtMj
-YyNzMxODEyLC0yMDAzNjg3OTAyLDE0NTQ2MTY0MzUsMTA4MDQx
-MzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5OTE3LC0xODcyNjY3Mj
-YsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1
-MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4Mz
-Y0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MTkw
-MywtMjAwODUzODEzNV19
+eyJoaXN0b3J5IjpbLTEyNDQyNDI0NDUsLTE3ODE1MjMzMTcsLT
+I2MjczMTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0
+MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2Nz
+I2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0x
+NTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1OD
+M2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5
+MDMsLTIwMDg1MzgxMzVdfQ==
 -->
