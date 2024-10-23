@@ -23,12 +23,12 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
   
  3. **Linux:computer:**
   - Open a terminal and add the Gem System repository.
-  --Install the application using your package manager.
+  - Install the application using your package manager.
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDg0OTY5LDE3MTc0MjQxMzIsMTYyMj
-c1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2
-Nzc5LDM3NTExNTg5NiwtMjA4ODc0NjYxMiwtMTY1MDQzOTExN1
-19
+eyJoaXN0b3J5IjpbLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNj
+IyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYx
+MzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MT
+E3XX0=
 -->
