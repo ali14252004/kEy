@@ -85,14 +85,18 @@ Here’s an example of a generated report in JSON format:
 ## Troubleshooting 
 ### Common Issues
 -  **Installation Failure**:
-   1-  *Definition*: The application fails to install properly on the user's system. 
+   1-  *Definition* : The application fails to install properly on the user's system. 
    2-  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
 
 -  **Login Issues**:
-  1-  *Definition**: Users are unable to log in to their accounts. -  
-  2- **Solution**: Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
+  1-  *Definition* : Users are unable to log in to their accounts.   
+  2- *Solution* : Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
+
+-  **Data Sync Problems**: 
+  1-  **Definition**: Changes made by users do not reflect across all devices. 
+    2-  **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzY0NzEwNiwtMTg3MjY2NzI2LC00Nz
+eyJoaXN0b3J5IjpbLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00Nz
 g1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2
 MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMT
 gsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIw
