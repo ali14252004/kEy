@@ -34,9 +34,8 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 To create a new Training session with a coach in the Gem System, follow these steps:
 
 1. **Open the Gem System application.**
-2. **Click on "Create New Project."**
-3. **Name the Project**: Enter a descriptive name for your project.
-4. **Set Deadlines**: Specify the start and end dates for the project.
+2. **Click on "Training session"**
+3. **Set an appointment**: Specify the start and end dates for the project.
 5. **Assign Tasks**: Add tasks associated with the project and assign them to team members.
 6. **Save the Project**: Click the "Save" button to finalize the project setup.
 
@@ -83,9 +82,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDkyODE3OCwyMTEzODY3NDg5LC0xMT
-QzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4
-MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyOD
-ksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3Nzks
-Mzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTE3MzUxNTkwMDIsMjExMzg2NzQ4OSwtMT
+E0MzUyMDI2MSwtMTUwNTYzNjMyNSwtNDIwMjU4ODE3LC0xNDYw
+ODAyMzcwLC0xNTgzNjQzMzE4LDE3MTc0MjQxMzIsMTYyMjc1Mj
+g5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5
+LDM3NTExNTg5NiwtMjA4ODc0NjYxMiwtMTY1MDQzOTExN119
 -->
