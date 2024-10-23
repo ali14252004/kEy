@@ -59,14 +59,14 @@ Users can generate comprehensive reports in the Gem System by following these st
 
 Here’s an example of a generated report in JSON format:
 
-```json
+```   json
 {
   "report": {
     "projectName": "Gem Collection",
     "totalGems": 150,
     "completedTasks": 75,
     "pendingTasks": 25,
-    "teamMembers": [
+    "teamMembers": {
       {
         "name": "Ali",
         "role": "Admin",
@@ -78,15 +78,13 @@ Here’s an example of a generated report in JSON format:
         "tasksCompleted": 5
       }
     }
-  }
-}`
-
+  }```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1NDY5OCwtMTg3MjY2NzI2LC00Nz
-g1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2
-MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMT
-gsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIw
-MDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1ODk2LC0yMDg4Nz
-Q2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTk5NzA2NjkxLC0xODcyNjY3MjYsLTQ3OD
+U3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2MzYz
+MjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOC
+wxNzE3NDI0MTMyLDE2MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAw
+ODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4OTYsLTIwODg3ND
+Y2MTIsLTE2NTA0MzkxMTddfQ==
 -->
