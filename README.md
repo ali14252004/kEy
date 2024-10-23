@@ -45,7 +45,7 @@ The Gem System offers several collaboration features to enhance teamwork:
 
 | Collaboration Option    | Description                                      | Communication Tools      |
 |-------------------------|--------------------------------------------------|---------------------------|
-| **Shared Training session**     | Multiple users can access and edit the same Training session. | In-app messaging          |
+      
 | **Task Assignments**    | Assign specific tasks to different users for accountability. | Comments and notifications |
 | **Real-time Updates**   | View real-time changes made by collaborators.   | Activity feed             |
 
@@ -82,10 +82,10 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc5NzA4MzQsLTQ3ODU3OTM1LDIxMT
-M4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1
-ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MT
-MyLDE2MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwt
-MTk0NjEzNjc3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NT
-A0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbMTYzMDk4MzAyMCwtNDc4NTc5MzUsMjExMz
+g2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNSwtNDIwMjU4
+ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3MTc0MjQxMz
+IsMTYyMjc1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0x
+OTQ2MTM2Nzc5LDM3NTExNTg5NiwtMjA4ODc0NjYxMiwtMTY1MD
+QzOTExN119
 -->
