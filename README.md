@@ -95,24 +95,24 @@ Here’s an example of a generated report in JSON format:
 ## Troubleshooting 
 ### Common Issues
 -  **Installation Failure**:
-   1-  *Definition* : The application fails to install properly on the user's system. 
-   2-  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
+   1. *Definition* : The application fails to install properly on the user's system. 
+   2.  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
 
 -  **Login Issues**:
   1.  *Definition* : Users are can't to log in to their accounts.   
   2. *Solution* : Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
 
 -  **Data Sync Problems**: 
-  1.  **Definition**: Changes made by users do not reflect across all devices. 
-    2. **Solution**: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
+  1.  *Definition*: Changes made by users do not reflect across all devices. 
+    2. *Solution*: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
 
 -  **Missing Gym Entries**: 
-  1.  **Definition**: Some gym entries are not visible in the user's catalog. 
-   2.  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
+  1.  *Definition*: Some gym entries are not visible in the user's catalog. 
+   2.  *Solution*: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
 
 -  **Notification Problems**: 
- 1.  **Definition**: Users do not receive notifications for updates or messages.
- 2 .  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
+ 1.  *Definition*: Users do not receive notifications for updates or messages.
+ 2 .  *Solution*: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
 
 ## Advanced Usage
 ### Scripting
@@ -129,11 +129,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjcxMTg0MSwtMjEyMzM0NjgzNSwtMT
-c4MTUyMzMxNywtMjYyNzMxODEyLC0yMDAzNjg3OTAyLDE0NTQ2
-MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5OT
-E3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLTEx
-NDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MD
-gwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4
-OSwtMTcyNDE4MTkwM119
+eyJoaXN0b3J5IjpbMjg0MTExNTQ5LDEzMzI3MTE4NDEsLTIxMj
+MzNDY4MzUsLTE3ODE1MjMzMTcsLTI2MjczMTgxMiwtMjAwMzY4
+NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0NDM1OD
+csLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEz
+ODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNT
+g4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEz
+MiwxNjIyNzUyODldfQ==
 -->
