@@ -104,13 +104,14 @@ Here’s an example of a generated report in JSON format:
  1-  **Definition**: Users do not receive notifications for updates or messages.
  2 -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
 
+## Advanced Usage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNj
-M2ODU5OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0
-ODksLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNy
-wtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2
-MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0Nj
-EzNjc3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0Mzkx
-MTddfQ==
+eyJoaXN0b3J5IjpbLTY3Mzc1Nzk2MCwxMDgwNDEzMTU5LC0xMD
+kwNDQzNTg3LC02MzY4NTk5MTcsLTE4NzI2NjcyNiwtNDc4NTc5
+MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNS
+wtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3
+MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NT
+M4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5NiwtMjA4ODc0NjYx
+MiwtMTY1MDQzOTExN119
 -->
