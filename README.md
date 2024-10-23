@@ -1,5 +1,5 @@
-# Gem System
-The **Gem System** program is a program that aims to arrange a gem system, in terms of arranging the trainees into three categories, and each category has something that distinguishes it from others.
+# Gym System
+The **Gym System** program is a program that aims to arrange a gym system, in terms of arranging the trainees into three categories, and each category has something that distinguishes it from others.
 
 ---
 
@@ -101,8 +101,8 @@ Here’s an example of a generated report in JSON format:
    2.  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
 
 -  **Notification Problems**: 
- 1-  **Definition**: Users do not receive notifications for updates or messages.
- 2 -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
+ 1.  **Definition**: Users do not receive notifications for updates or messages.
+ 2 .  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
 
 ## Advanced Usage
 ### Scripting
@@ -115,11 +115,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODMzMzUyNCwtMjAwMzY4NzkwMiwxND
-U0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1
-OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC
-0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0
-NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNz
-UyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3
-NzksMzc1MTE1ODk2XX0=
+eyJoaXN0b3J5IjpbLTE3MjM4ODE1NjgsLTIwMDM2ODc5MDIsMT
+Q1NDYxNjQzNSwxMDgwNDEzMTU5LC0xMDkwNDQzNTg3LC02MzY4
+NTk5MTcsLTE4NzI2NjcyNiwtNDc4NTc5MzUsMjExMzg2NzQ4OS
+wtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNSwtNDIwMjU4ODE3LC0x
+NDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3MTc0MjQxMzIsMTYyMj
+c1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2
+Nzc5LDM3NTExNTg5Nl19
 -->
