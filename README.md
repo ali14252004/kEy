@@ -113,13 +113,13 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | Application Name    | Description                                      | Website      |
 |-------------------------|--------------------------------------------------|---------------------------|
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
-| **Dropbox**   | View real-time changes made by collaborators.   | [dropbox](https://www.dropbox.com/)            |
+| **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTI0ODEyMCwxNDU0NjE2NDM1LDEwOD
-A0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2
-NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC
-0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1
-ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3MjQxOD
-E5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1ODk2
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwMDM2ODc5MDIsMTQ1NDYxNjQzNSwxMD
+gwNDEzMTU5LC0xMDkwNDQzNTg3LC02MzY4NTk5MTcsLTE4NzI2
+NjcyNiwtNDc4NTc5MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MS
+wtMTUwNTYzNjMyNSwtNDIwMjU4ODE3LC0xNDYwODAyMzcwLC0x
+NTgzNjQzMzE4LDE3MTc0MjQxMzIsMTYyMjc1Mjg5LC0xNzI0MT
+gxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTExNTg5
+NiwtMjA4ODc0NjYxMl19
 -->
