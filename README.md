@@ -11,10 +11,11 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 - **User Management**: Manage user accounts, roles, and permissions to enhance security.
 
 ## Installation Guide  
-1.
+1.  **Windows**:
+ ```bash git clone https://github.com/yourusername/gem-system.git cd gem-system npm install npm start
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTc5MjcwNSwtMjAwODUzODEzNSwtMT
-k0NjEzNjc3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0
-MzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLT
+E5NDYxMzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUw
+NDM5MTE3XX0=
 -->
