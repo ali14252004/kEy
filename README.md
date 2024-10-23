@@ -13,11 +13,14 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 ## Installation Guide  
 1.  **Windows**:
  --Download the installer from the official Gem System website.
- --
+ --Open the installer and follow the on-screen instructions.
+ --Launch the application from the Start menu.
+
+2. **macOS**
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjM3OTIwLDE2MjI3NTI4OSwtMTcyND
-E4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4
-OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
+eyJoaXN0b3J5IjpbMTA2Mjg5MjcwOCwxNjIyNzUyODksLTE3Mj
+QxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1
+ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
 -->
