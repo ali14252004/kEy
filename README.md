@@ -124,8 +124,10 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 |-------------------------|--------------------------------------------------|---------------------------|
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
+
+1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQyNDI0NDUsLTE3ODE1MjMzMTcsLT
+eyJoaXN0b3J5IjpbLTIxMjMzNDY4MzUsLTE3ODE1MjMzMTcsLT
 I2MjczMTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0
 MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2Nz
 I2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0x
