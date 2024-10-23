@@ -5,21 +5,21 @@ The **Gym System** program is a program that aims to arrange a gym system, in te
 
 ## Key Features
 -  **User Authentication**: Secure login for users to manage their collections :id:.
--  **Gem subscription**: The user can participate in any category he wants :muscle:.
-- **Search Functionality**: Quickly find gems by various attributes such as category :mag_right:.
-- **Collaboration**: Share gem collections and collaborate with other users seamlessly :envelope:.
+-  **Gym subscription**: The user can participate in any category he wants :muscle:.
+- **Search Functionality**: Quickly find gyms by various attributes such as category :mag_right:.
+- **Collaboration**: Share gym collections and collaborate with other users seamlessly :envelope:.
 - **User Management**: Manage user accounts, roles, and permissions to enhance security :cop:.
 ---
 
 ## Installation Guide  
 1.  **Windows :computer:**:
- - Download the Gem System from the official installer  website.
+ - Download the Gym System from the official installer  website.
  - Open the installer and follow the on-screen instructions.
  - Launch the application from the Start menu.
 
 2. **macOS :computer:**
- - Download the .dmg file from the official Gem System website.
- - Open the .dmg file and drag the Gem System application to your Applications folder.
+ - Download the .dmg file from the official Gym System website.
+ - Open the .dmg file and drag the Gym System application to your Applications folder.
  - Launch the application from your Applications.
   
  3. **Linux :computer:**
@@ -115,11 +115,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM4ODE1NjgsLTIwMDM2ODc5MDIsMT
-Q1NDYxNjQzNSwxMDgwNDEzMTU5LC0xMDkwNDQzNTg3LC02MzY4
-NTk5MTcsLTE4NzI2NjcyNiwtNDc4NTc5MzUsMjExMzg2NzQ4OS
-wtMTE0MzUyMDI2MSwtMTUwNTYzNjMyNSwtNDIwMjU4ODE3LC0x
-NDYwODAyMzcwLC0xNTgzNjQzMzE4LDE3MTc0MjQxMzIsMTYyMj
-c1Mjg5LC0xNzI0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2
-Nzc5LDM3NTExNTg5Nl19
+eyJoaXN0b3J5IjpbMzEyNTAyNDcyLC0yMDAzNjg3OTAyLDE0NT
+Q2MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5
+OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLT
+ExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2
+MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NT
+I4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3
+OSwzNzUxMTU4OTZdfQ==
 -->
