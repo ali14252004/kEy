@@ -101,13 +101,16 @@ Here’s an example of a generated report in JSON format:
    2-  **Solution**: Check if filters are applied that may hide certain entries. Ensure the user has the necessary permissions to view all entries.
 
 -  **Notification Problems**: 
- 1-  **Definition**: Users do not receive notifications for updates or messages. -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the operating system settings.
+ 1-  **Definition**: Users do not receive notifications for updates or messages.
+ 2 -  **Solution**: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc0NTcyMDAsLTEwOTA0NDM1ODcsLT
-YzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3
-NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MT
-csLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwx
-NjIyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5ND
-YxMzY3NzksMzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5
-MTE3XX0=
+eyJoaXN0b3J5IjpbMTA4MDQxMzE1OSwtMTA5MDQ0MzU4NywtNj
+M2ODU5OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Njc0
+ODksLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNy
+wtMTQ2MDgwMjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2
+MjI3NTI4OSwtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0Nj
+EzNjc3OSwzNzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0Mzkx
+MTddfQ==
 -->
