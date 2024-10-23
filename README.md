@@ -37,7 +37,8 @@ To create a new Training session with a coach in the Gem System, follow these st
 2. **Click on "Training session"**
 3. **Set an appointment**: Specify the start and end dates for the training session.
 4. **Choose the coach**: enter the name of the coach.
-5. **Set the time**: Specify the time you need
+5. **Set the time**: Specify the time you need.
+
 ### Collaboration
 
 The Gem System offers several collaboration features to enhance teamwork:
@@ -81,9 +82,9 @@ Here’s an example of a generated report in JSON format:
   }
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzA3NDI4OSwyMTEzODY3NDg5LC0xMT
-QzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4
-MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNzUyOD
-ksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3Nzks
-Mzc1MTE1ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTQ3ODU3OTM1LDIxMTM4Njc0ODksLTExND
+M1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgxNywtMTQ2MDgw
+MjM3MCwtMTU4MzY0MzMxOCwxNzE3NDI0MTMyLDE2MjI3NTI4OS
+wtMTcyNDE4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwz
+NzUxMTU4OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
 -->
