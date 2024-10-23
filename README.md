@@ -96,15 +96,16 @@ Here’s an example of a generated report in JSON format:
 ### Common Issues
 -  **Installation Failure**:
    1. *Definition* : The application fails to install properly         on the user's system. 
-   2.  *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
+   2. *Solution*: Ensure that the system meets the minimum requirements and that no previous versions are conflicting with the installation.
 
+   
 -  **Login Issues**:
   1.  *Definition* : Users are can't to log in to their accounts.   
   2.  *Solution* : Verify that the correct username and password are being used. If forgotten, use the "Forgot Password" feature to reset it.
 
 -  **Data Sync Problems**: 
   1.  *Definition*: Changes made by users do not reflect across all devices. 
-    2. *Solution*: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
+  2. *Solution*: Check the internet connection and ensure that the application is updated to the latest version. Try refreshing the app or logging out and back in.
 
 -  **Missing Gym Entries**: 
   1.  *Definition*: Some gym entries are not visible in the user's catalog. 
@@ -130,11 +131,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIyNDM4ODEsMjg0MTExNTQ5LDEzMz
-I3MTE4NDEsLTIxMjMzNDY4MzUsLTE3ODE1MjMzMTcsLTI2Mjcz
-MTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNT
-ksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00
-Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1Nj
-M2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMz
-MTgsMTcxNzQyNDEzMl19
+eyJoaXN0b3J5IjpbLTY0NjI3MTQ1MywyODQxMTE1NDksMTMzMj
+cxMTg0MSwtMjEyMzM0NjgzNSwtMTc4MTUyMzMxNywtMjYyNzMx
+ODEyLC0yMDAzNjg3OTAyLDE0NTQ2MTY0MzUsMTA4MDQxMzE1OS
+wtMTA5MDQ0MzU4NywtNjM2ODU5OTE3LC0xODcyNjY3MjYsLTQ3
+ODU3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2Mz
+YzMjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMx
+OCwxNzE3NDI0MTMyXX0=
 -->
