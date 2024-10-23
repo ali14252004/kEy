@@ -1,7 +1,7 @@
 # Gym System
 The **Gym System** program is a program that aims to arrange a gym system, in terms of arranging the trainees into three categories, and each category has something that distinguishes it from others.
 
-![alt text](image.jpg)
+![Gym System User Interface](https://gymnation.com/media/1ywpbj51/the-best-gyms-in-riyadh.webp)
 ---
 
 ## Key Features
@@ -125,7 +125,7 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3MDA3OSwtMTc4MTUyMzMxNywtMj
+eyJoaXN0b3J5IjpbMTQ4MzI5Mzk4MiwtMTc4MTUyMzMxNywtMj
 YyNzMxODEyLC0yMDAzNjg3OTAyLDE0NTQ2MTY0MzUsMTA4MDQx
 MzE1OSwtMTA5MDQ0MzU4NywtNjM2ODU5OTE3LC0xODcyNjY3Mj
 YsLTQ3ODU3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1
