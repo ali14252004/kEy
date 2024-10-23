@@ -112,8 +112,9 @@ Here’s an example of a generated report in JSON format:
 
 -  **Notification Problems**: 
  1.  *Definition*: Users do not receive notifications for updates or messages.
- 2 .  *Solution*: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
+ 2.  *Solution*: Check the notification settings within the app and ensure that notifications are enabled in the system settings.
 
+ 
 ## Advanced Usage
 ### Scripting
 The Gym System allows users to automate repetitive tasks through scripting. By using the built-in scripting feature, users can create scripts to perform actions such as batch updates, data imports, or other routine operations. This can significantly enhance productivity and reduce manual errors.
@@ -129,11 +130,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTY1Mjg4MSwyODQxMTE1NDksMTMzMj
-cxMTg0MSwtMjEyMzM0NjgzNSwtMTc4MTUyMzMxNywtMjYyNzMx
-ODEyLC0yMDAzNjg3OTAyLDE0NTQ2MTY0MzUsMTA4MDQxMzE1OS
-wtMTA5MDQ0MzU4NywtNjM2ODU5OTE3LC0xODcyNjY3MjYsLTQ3
-ODU3OTM1LDIxMTM4Njc0ODksLTExNDM1MjAyNjEsLTE1MDU2Mz
-YzMjUsLTQyMDI1ODgxNywtMTQ2MDgwMjM3MCwtMTU4MzY0MzMx
-OCwxNzE3NDI0MTMyXX0=
+eyJoaXN0b3J5IjpbLTExNTIyNDM4ODEsMjg0MTExNTQ5LDEzMz
+I3MTE4NDEsLTIxMjMzNDY4MzUsLTE3ODE1MjMzMTcsLTI2Mjcz
+MTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNT
+ksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00
+Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1Nj
+M2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMz
+MTgsMTcxNzQyNDEzMl19
 -->
