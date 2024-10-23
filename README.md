@@ -8,14 +8,16 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 -  **Gem subscription**: The user can participate in any category he wants:muscle:.
 - **Search Functionality**: Quickly find gems by various attributes such as category:mag_right:.
 - **Collaboration**: Share gem collections and collaborate with other users seamlessly:envelope:.
-- **User Management**: Manage user accounts, roles, and permissions to enhance security.
+- **User Management**: Manage user accounts, roles, and permissions to enhance security:cop:.
 
 ## Installation Guide  
 1.  **Windows**:
- ```bash git clone https://github.com/yourusername/gem-system.git cd gem-system npm install npm start
+ --Download the installer from the official Gem System website.
+ --
+  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDg4NTU0MSwxNjIyNzUyODksLTE3Mj
-QxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1
-ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
+eyJoaXN0b3J5IjpbLTY5MjM3OTIwLDE2MjI3NTI4OSwtMTcyND
+E4MTkwMywtMjAwODUzODEzNSwtMTk0NjEzNjc3OSwzNzUxMTU4
+OTYsLTIwODg3NDY2MTIsLTE2NTA0MzkxMTddfQ==
 -->
