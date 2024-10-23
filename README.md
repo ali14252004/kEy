@@ -11,21 +11,23 @@ The **Gem System** program is a program that aims to arrange a gem system, in te
 - **User Management**: Manage user accounts, roles, and permissions to enhance security:cop:.
 
 ## Installation Guide  
-1.  **Windows**:
+1.  **Windows:computer:**:
  --Download the installer from the official Gem System website.
  --Open the installer and follow the on-screen instructions.
  --Launch the application from the Start menu.
 
-2. **macOS**
+2. **macOS:computer:**
  --Download the .dmg file from the official Gem System website.
  --Open the .dmg file and drag the Gem System application to your Applications folder.
  --Launch the application from your Applications.
   
- 3. **Linux**
+ 3. **Linux:computer:**
+  --Open a terminal and add the Gem System repository.
+  --Install the application using your package manager.
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ1OTQ3NzUsMTYyMjc1Mjg5LC0xNz
-I0MTgxOTAzLC0yMDA4NTM4MTM1LC0xOTQ2MTM2Nzc5LDM3NTEx
-NTg5NiwtMjA4ODc0NjYxMiwtMTY1MDQzOTExN119
+eyJoaXN0b3J5IjpbMTcxNzQyNDEzMiwxNjIyNzUyODksLTE3Mj
+QxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3NzksMzc1MTE1
+ODk2LC0yMDg4NzQ2NjEyLC0xNjUwNDM5MTE3XX0=
 -->
