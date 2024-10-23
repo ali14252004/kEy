@@ -59,27 +59,11 @@ Users can generate comprehensive reports in the Gym System by following these st
 
 Here’s an example of a generated report in JSON format:
 
-```   json
-{
-  "report": {
-    "projectName": "Gem Collection",
-    "totalGems": 150,
-    "completedTasks": 75,
-    "pendingTasks": 25,
-    "teamMembers": {
-      {
-        "name": "Ali",
-        "role": "Admin",
-        "tasksCompleted": 10
-      },
-      {
-        "name": "saad",
-        "role": "User",
-        "tasksCompleted": 5
-      }
-    }
-  }
-  ```
+```json 
+{ 
+"report": 
+{ "programName": 
+"Summer Body Bootcamp", "totalParticipants": 30, "successRate": "85%", "progress": { "weightLoss": "5 kg", "muscleGain": "3 kg" }, "participants": [ { "name": "Alice", "progress": { "weightLost": "2 kg", "workoutsCompleted": 10 } }, { "name": "Bob", "progress": { "weightLost": "3 kg", "workoutsCompleted": 12 } } ] } }
 
 ---
 ## Troubleshooting 
@@ -115,11 +99,11 @@ The Gem System allows users to automate repetitive tasks through scripting. By u
 | **Google Drive**    | Cloud storage solution for managing user Accounts. | [google drive](https://workspace.google.com/products/drive/) |
 | **Dropbox**   | File hosting service for backup and sharing.   | [dropbox](https://www.dropbox.com/)            |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjczMTgxMiwtMjAwMzY4NzkwMiwxND
-U0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1
-OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC
-0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0
-NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNzQyNDEzMiwxNjIyNz
-UyODksLTE3MjQxODE5MDMsLTIwMDg1MzgxMzUsLTE5NDYxMzY3
-NzksMzc1MTE1ODk2XX0=
+eyJoaXN0b3J5IjpbLTE4NzE1NDY3ODUsLTI2MjczMTgxMiwtMj
+AwMzY4NzkwMiwxNDU0NjE2NDM1LDEwODA0MTMxNTksLTEwOTA0
+NDM1ODcsLTYzNjg1OTkxNywtMTg3MjY2NzI2LC00Nzg1NzkzNS
+wyMTEzODY3NDg5LC0xMTQzNTIwMjYxLC0xNTA1NjM2MzI1LC00
+MjAyNTg4MTcsLTE0NjA4MDIzNzAsLTE1ODM2NDMzMTgsMTcxNz
+QyNDEzMiwxNjIyNzUyODksLTE3MjQxODE5MDMsLTIwMDg1Mzgx
+MzUsLTE5NDYxMzY3NzldfQ==
 -->
