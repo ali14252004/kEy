@@ -1,4 +1,4 @@
-**strong text**# Gym System
+# Gym System
 The **Gym System** program is a program that aims to arrange a gym system, in terms of arranging the trainees into three categories, and each category has something that distinguishes it from others.
 
 ![Gym System User Interface](https://raw.githubusercontent.com/codelovs/codelov1/master/images/gym-management-laravel-1.png)
@@ -131,11 +131,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTg4Nzc5NiwyMDQxMjY5NDc4LC0xMD
-U5MjMzNjAzLC0xNzgzMjMxNzYzLDI4NDExMTU0OSwxMzMyNzEx
-ODQxLC0yMTIzMzQ2ODM1LC0xNzgxNTIzMzE3LC0yNjI3MzE4MT
-IsLTIwMDM2ODc5MDIsMTQ1NDYxNjQzNSwxMDgwNDEzMTU5LC0x
-MDkwNDQzNTg3LC02MzY4NTk5MTcsLTE4NzI2NjcyNiwtNDc4NT
-c5MzUsMjExMzg2NzQ4OSwtMTE0MzUyMDI2MSwtMTUwNTYzNjMy
-NSwtNDIwMjU4ODE3XX0=
+eyJoaXN0b3J5IjpbMjA0MTI2OTQ3OCwtNjA1ODg3Nzk2LDIwND
+EyNjk0NzgsLTEwNTkyMzM2MDMsLTE3ODMyMzE3NjMsMjg0MTEx
+NTQ5LDEzMzI3MTE4NDEsLTIxMjMzNDY4MzUsLTE3ODE1MjMzMT
+csLTI2MjczMTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2NDM1LDEw
+ODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywtMTg3Mj
+Y2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNTIwMjYx
+LC0xNTA1NjM2MzI1XX0=
 -->
