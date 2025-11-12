@@ -23,7 +23,7 @@ The **Gym System** program is a program that aims to arrange a gym system, in te
  - Open the .dmg file and drag the Gym System application to your Applications folder.
  - Launch the application from your Applications.
   
- 3. **Linux :computer:**
+4. **Linux :computer:**
   - Open a terminal and add the Gym System repository.
   - Install the application using your package manager.
   
@@ -131,11 +131,11 @@ The Gym System allows users to automate repetitive tasks through scripting. By u
 1. For more information on fitness program design, visit the [National Academy of Sports Medicine](https://www.nasm.org) for comprehensive guidelines and resources.
 2. To learn more about tracking workout progress effectively, check out this article on [MyFitnessPal Blog](https://blog.myfitnesspal.com) which provides useful tips and tools.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkyMzM2MDMsLTE3ODMyMzE3NjMsMj
-g0MTExNTQ5LDEzMzI3MTE4NDEsLTIxMjMzNDY4MzUsLTE3ODE1
-MjMzMTcsLTI2MjczMTgxMiwtMjAwMzY4NzkwMiwxNDU0NjE2ND
-M1LDEwODA0MTMxNTksLTEwOTA0NDM1ODcsLTYzNjg1OTkxNywt
-MTg3MjY2NzI2LC00Nzg1NzkzNSwyMTEzODY3NDg5LC0xMTQzNT
-IwMjYxLC0xNTA1NjM2MzI1LC00MjAyNTg4MTcsLTE0NjA4MDIz
-NzAsLTE1ODM2NDMzMThdfQ==
+eyJoaXN0b3J5IjpbMjA0MTI2OTQ3OCwtMTA1OTIzMzYwMywtMT
+c4MzIzMTc2MywyODQxMTE1NDksMTMzMjcxMTg0MSwtMjEyMzM0
+NjgzNSwtMTc4MTUyMzMxNywtMjYyNzMxODEyLC0yMDAzNjg3OT
+AyLDE0NTQ2MTY0MzUsMTA4MDQxMzE1OSwtMTA5MDQ0MzU4Nywt
+NjM2ODU5OTE3LC0xODcyNjY3MjYsLTQ3ODU3OTM1LDIxMTM4Nj
+c0ODksLTExNDM1MjAyNjEsLTE1MDU2MzYzMjUsLTQyMDI1ODgx
+NywtMTQ2MDgwMjM3MF19
 -->
